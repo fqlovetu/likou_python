@@ -1,3 +1,2 @@
 # likou_python
-力扣
--- li--
+力扣题库
